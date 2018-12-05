@@ -5,7 +5,7 @@ I recently watched [Mark Yegge's TEDxUF Talk called *Executing Your Ideas*](http
 This has taken me a while to fully understand, but it makes perfect sense to me now, and I am glad to see others being more open with their ideas. Anytime I am a feeling bit reluctant to share my ideas, I try to remember these things:
 
 ### 1. People are lazy, they're not going to steal your idea.
-Carlos Moreno told me this, he was my CTO at the time. It was very impactful. *Disclaimer: people can totally steal your idea, but generally speaking, most people have their own work anf life problems to deal with. *
+Carlos Moreno told me this, he was my CTO at the time. It was very impactful. *Disclaimer: people can totally steal your idea, but generally speaking, most people have their own work anf life problems to deal with.*
 
 ### 2. You're the expert, they can't steal your idea.
 A statement I continue to tell my uncle who comes up with 100 ideas a day. If you are the expert, you are the one with the ability and power to do it!
