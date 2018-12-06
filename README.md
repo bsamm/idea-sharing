@@ -2,7 +2,7 @@
 
 I recently watched [Mark Yegge's TEDxUF Talk called *Executing Your Ideas*](https://youtu.be/ar9hRKYqhus) for graduate school. In the video, he talks about the importance of sharing your ideas. Mark Yegge said: "If you're not going to tell anyone your idea, then there is no way you can ever really implement it."
 
-This has taken me a while to fully understand, but it makes perfect sense to me now, and I am glad to see others being more open with their ideas. Anytime I am a feeling bit reluctant to share my ideas, I try to remember these things:
+This has taken me a few years to fully understand, but it makes perfect sense to me now, and I am glad to see others being more open with their ideas. Anytime I am a feeling bit reluctant to share my ideas, I try to remember these things:
 
 ### 1. People are lazy, they're not going to steal your idea.
 Carlos Moreno told me this, he was my CTO at the time. It was very impactful. *Disclaimer: people can totally steal your idea, but generally speaking, most people have their own work and life problems to deal with.*
