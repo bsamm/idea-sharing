@@ -14,4 +14,4 @@ A statement I continue to tell my uncle who comes up with 100 ideas a day. If yo
 People are willing to help you make your idea better for free. This is just something I have noticed as I have simply asked people for feedback. People love to give advice, and if you present your idea in an open fashion, people will give you honest and valuable feedback.
 
 ### 4. Telling people about an idea creates self-pressure.
-The more you talk about it, the more likely you are going to actually do it. This is something I learned when Aaron Siegel made me keep a web blog in Process and Perspectives. I am a religious note taker but don't really like blogging. That being said, this concept can work on many levels, even with your close group of friends and your personal notebook.
+The more you talk about it, the more likely you are going to actually do it.
